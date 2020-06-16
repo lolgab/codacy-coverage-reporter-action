@@ -1,0 +1,7 @@
+function normalize() {
+
+}
+
+function getBrand() {
+
+}
